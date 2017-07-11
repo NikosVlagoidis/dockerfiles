@@ -2,7 +2,9 @@ vim /etc/redis/6379.conf
 
 Before
 
-`bind 127.0.0.1`
+```
+bind 127.0.0.1
+```
 
 After
 
